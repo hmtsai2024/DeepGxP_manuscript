@@ -1,4 +1,6 @@
 # DeepGxP_manuscript
+[![DOI](https://zenodo.org/badge/967327011.svg)](https://doi.org/10.5281/zenodo.15233340)
+
 
 ## Summary
 DeepGxP is a Python-based framework for predicting and interpreting protein abundance from gene expression profiles. The model was originally trained on bulk RNA-seq and RPPA protein data from TCGA tumors, focusing on tumor-associated proteins. With minor architectural adjustments, DeepGxP also performs well on single-cell data, such as CITE-seq, which simultaneously measures RNA and surface protein expression in the same cell.
